@@ -16,5 +16,5 @@
 
 ## Feito por:
 
-### Vinicíus Costa Fonseca
+### Vinicius Costa Fonseca
 ### Linkedin: https://www.linkedin.com/in/vinicostaz/
